@@ -1,4 +1,4 @@
 # License Plate Detector
 Based on [this tutorial](https://betterdatascience.com/detect-license-plates-with-yolo/).
 
-It uses [Darknet YOLO](https://pjreddie.com/darknet/yolo/) as the base and not [Ultralytics YOLO](https://www.ultralytics.com/yolo)).
+It uses [Darknet YOLO](https://pjreddie.com/darknet/yolo/) as the base and not [Ultralytics YOLO](https://www.ultralytics.com/yolo).
