@@ -7,4 +7,4 @@ from IPython.display import display
 diplay("Hello World")
 ```
 
-(this on **Jupyter Notebook** and not **Markdown**)
+(this is for **Jupyter Notebook** and not **Markdown**)
